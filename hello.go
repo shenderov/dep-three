@@ -1,4 +1,4 @@
-package dep-three // import "github.com/shenderov/dep-thee"
+package depthree // import "github.com/shenderov/dep-thee"
 
 import (
 	"fmt"
